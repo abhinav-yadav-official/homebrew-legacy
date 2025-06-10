@@ -122,7 +122,7 @@ class OpensslLegacy < Formula
   end
 
   bottle do
-    root_url "https://github.com/abhinav-yadav-official/homebrew-legacy/releases/download/openssl-legacy-1.1.1w/openssl-legacy--1.1.1w.arm64_sequoia.bottle.2.tar.gz"
+    root_url "https://github.com/abhinav-yadav-official/homebrew-legacy/releases/download/openssl-legacy-1.1.1w"
     rebuild 2
     sha256 arm64_sequoia: "c7dc20604e90366364dbcfd5763fb55a525093b5f132692f85ffbcb986ad7ba5"
   end  
